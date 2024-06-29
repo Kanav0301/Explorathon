@@ -1,2 +1,1 @@
-# Explorathon
-Hackathon
+# todo-beginner
